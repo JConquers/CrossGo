@@ -3,11 +3,14 @@
 
 CrossGo is a real-time ride and cargo-matching platform that connects clients with nearby drivers based on availability, vehicle capacity, and trip preferences.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="images/redis-logo.png" alt="Image 1" style="max-width:20%;">
-  <img src="images/spring-boot-logo.png" alt="Image 2" style="max-width:40%;">
-  <img src="images/kafka-logo.png" alt="Image 3" style="max-width:20%;">
-</div>
+<p align="center">
+  <img src="images/redis-logo.png" alt="Redis" width="150"/>
+  
+  <img src="images/spring-boot-logo.png" alt="Spring Boot" width="400"/>
+  
+  <img src="images/kafka-logo.png" alt="Kafka" width="150"/>
+</p>
+
 
 ---
 
