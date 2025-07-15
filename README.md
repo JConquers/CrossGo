@@ -30,7 +30,7 @@ The following are the 4 different services that form this platform:
 * [CrossGo-Cargo-Service](https://github.com/JConquers/CrossGo-Cargo-Service/tree/master)
 
 ### Redis Caches:
-<img src="images/service-cache-accessibility.png" alt="Redis" width="250"/>
+<img src="images/service-cache-accessibility.jpeg" alt="Redis" width="250"/>
 
 * **C1** – Caches active client (rider/shipment) requests with geo-coordinates and TTL.
 * **C2** – Caches online drivers willing to accept ride requests.
